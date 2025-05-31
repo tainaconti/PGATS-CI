@@ -1,0 +1,12 @@
+{
+  "name": "d2e01406c11d01ad13d732650d06ea17-08b7d069bbd9201f86f2de87ec8b2b13adb7484d",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "trabalho.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
